@@ -26,3 +26,7 @@ Upload new code in GDB
 ```
 load
 ```
+Or simply
+```shell
+$ cargo run
+```
